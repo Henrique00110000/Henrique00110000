@@ -5,7 +5,7 @@
 - 🔭 Procurando Estagio
 - 🌱 Estou estudando JavaScript
 - 💬 Cursando Engenharia da Computação na universidade Univesp
-- 📫 GuilhermeHneriqueGomesDePaula@outlook.com
+- 📫 GuilhermeHenriqueGomesDePaula@outlook.com
 
 <div align="center">
   <a href="https://github.com/Henrique00110000">
